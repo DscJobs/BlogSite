@@ -39,7 +39,7 @@ Official Blog Site DscJobs made using NextJS and TailwindCSS
 4. Modify `projectsData.js`
 5. Modify `headerNavLinks.js` to customize navigation links
 6. Add blog posts
-7. Deploy on Vercel
+7. Deploy on Vercel or Netlify
 
 ---
 

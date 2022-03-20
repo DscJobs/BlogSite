@@ -177,6 +177,6 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 
 ---
 
-## Licence
+## License
 
 __**MIT**__ © [Toxic Dev](https://toxicdev.me)

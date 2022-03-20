@@ -1,5 +1,5 @@
 ---
-name: Sparrow Hawk
+name: System
 avatar: /static/images/logo.png
 occupation: Staff Member
 company: DscJobs

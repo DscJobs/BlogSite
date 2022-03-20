@@ -22,7 +22,6 @@ export default function Footer() {
           <Link href="https://vercel.com">
             Powered by: Vercel
           </Link>
-          <iframe src="https://status.dscjobs.org/embed-status/dark-sm" width="230" height="61" frameBorder="0" scrolling="no" className="border: none;"></iframe>
         </div>
       </div>
     </footer>

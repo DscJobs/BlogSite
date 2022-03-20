@@ -1,4 +1,4 @@
-# Tailwind Nextjs Starter Blog
+# DscJobs Blog Site
 Official Blog Site DscJobs made using NextJS and TailwindCSS
 
 ## Features

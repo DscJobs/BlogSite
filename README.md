@@ -1,4 +1,7 @@
 # DscJobs Blog Site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df06caa4-c163-48aa-8265-ba0f4f0378bc/deploy-status)](https://app.netlify.com/sites/tender-euclid-10d53a/deploys)
+
 Official Blog Site DscJobs made using NextJS and TailwindCSS
 
 ## Features

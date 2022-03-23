@@ -82,7 +82,7 @@ module.exports = {
               backgroundColor: theme('colors.gray.800'),
             },
             code: {
-              color: 'var(--secondary_color_two)',,
+              color: 'var(--secondary_color_two)',
               backgroundColor: theme('colors.gray.100'),
               paddingLeft: '4px',
               paddingRight: '4px',

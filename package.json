@@ -1,5 +1,5 @@
 {
-  "name": "dscjobs-blog",
+  "name": "@jobcord/blog",
   "author": "Toxic Dev <https://toxicdev.me>",
   "version": "0.0.1",
   "private": true,

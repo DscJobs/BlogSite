@@ -1,0 +1,59 @@
+---
+title: 'DscJobs API v2'
+date: '2022-04-05'
+lastmod: '2022-04-05'
+tags: ['dscjobs', 'updates', 'api']
+draft: false
+summary: 'Some useful info regarding our upcoming API Update'
+---
+
+# Introduction
+Well hello everyone, I figured it was about time for an update
+regarding the DscJobs API and it's current and planned features.
+
+---
+
+## Quick Summary
+As most of you know since the release of our API it has lacked
+a variety of useful features and endpoints that can be used and
+interacted with by our community developers and their packages
+
+I am constantly looking for and thinking about ways that I can
+provide you all with a better, more useful, reliable API aswell
+as planning for the next major version.
+
+
+---
+
+## Planned Changes
+• Here is a few things you can expect with the upcoming updates.
+
+### User Reviews
+- Fetch a List of all Review IDs for a Specified User: `/rev/id/:userID`
+- Fetch a random Review for a Specified User: `/rev/random/:userID`
+- Fetch all Reviews for a Specified User: `/rev/all/:userID`
+- Fetch a Review for a Specied User via it's Review ID: `rev/user/:revID`
+- Fetch all Reviews for our Entire User Base: `rev/all`
+
+### User Information
+- Fetch the Curriculum Vitae for a Specified User: `/cv/:userID`
+- Fetch all Info about a Specified User (Premium Status etc): `/user/:userID`
+- Check if a User is Staff on our Discord Server: `/checks/staff/:userID`
+- Check if a User is Banned from our Discord Server and Website: `/checks/ban/:userID`
+- Check if a User is Subscribed to DscJobs Premium Features: `/checks/premium/:userID`
+
+## Hire Requests
+- Fetch a List of all Request IDs for a Specified User: `/req/id/:userID`
+- Fetch a Random Hire Request for a Specified User: `/req/random/:userID`
+- Fetch a list of all Hire Requests for a Specified User: `/req/all/:userID`
+- Fetch a Hire Request for a Specified User via it's Request ID: `/req/user/:reqID`
+
+---
+
+## Conclusion
+- All changes listed here are subject to change at anytime following a update to this blog post
+our server members will be notified if this blog post is updated.
+
+- I am currently unsure on a release date for v2 of our API but you can expect it to be within
+the next 1 - 2 weeks at most.
+
